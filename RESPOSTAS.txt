@@ -1,0 +1,23 @@
+NOME DO ALUNO:
+
+TURMA: 2º C
+
+QUANTIDADE DE ERROS ENCONTRADOS:
+
+
+ERRO 1:
+Arquivo:
+Problema encontrado:
+Correção realizada:
+
+ERRO 2:
+Arquivo:
+Problema encontrado:
+Correção realizada:
+
+ERRO 3:
+Arquivo:
+Problema encontrado:
+Correção realizada:
+
+Continue registrando os demais erros encontrados.
